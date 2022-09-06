@@ -1,3 +1,2 @@
 #!/bin/bash
 echo Result of POWER divided by DIVIDE $((POWER/DIVIDE))
-
